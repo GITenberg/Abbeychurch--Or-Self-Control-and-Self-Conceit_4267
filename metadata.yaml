@@ -1,0 +1,34 @@
+_repo: Abbeychurch--Or-Self-Control-and-Self-Conceit_4267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: Written when the author was in her early twenties, and now regarded as
+  Yonge's first serious work of fiction, Abbeychurch grapples with both serious theological
+  issues pertaining to the schism between Broad, High and Low factions in the Church
+  of England, as well as with the struggles of ego and impulse that are common in
+  adolescence and early adulthood. A gripping and sophisticated example of women's
+  nineteenth-century fiction.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: Abbeychurch; Or, Self-Control and Self-Conceit
+url: http://www.gutenberg.org/ebooks/4267
