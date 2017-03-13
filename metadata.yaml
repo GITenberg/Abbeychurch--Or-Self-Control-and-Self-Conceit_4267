@@ -1,5 +1,8 @@
 _repo: Abbeychurch--Or-Self-Control-and-Self-Conceit_4267
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -17,6 +20,8 @@ description: Written when the author was in her early twenties, and now regarded
   of England, as well as with the struggles of ego and impulse that are common in
   adolescence and early adulthood. A gripping and sophisticated example of women's
   nineteenth-century fiction.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4267#Abbeychurch--Or-Self-Control-and-Self-Conceit
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
